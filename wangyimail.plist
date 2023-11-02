@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/wangyi.ipa</string>
+					<string>http:223.75.236.154:8448/wangyi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>http:223.75.236.154:8448/wangyimail.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>demo1</string>
+				<string>网易邮箱</string>
 				<key>title</key>
 				<string>网易邮箱</string>
 			</dict>
